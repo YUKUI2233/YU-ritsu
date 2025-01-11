@@ -1,5 +1,5 @@
 ---
-title: 在圣神殿堂之下
+title: 在圣神殿堂之下dfds
 description: 真理无法驳倒的东西
 pubDate: 12 5 2024
 image: /image/image4.jpg
@@ -30,3 +30,5 @@ Perhaps the notion of "broadening one’s horizons" is similar. Those voices cri
 For the diligent "exam takers" of small towns, it’s a pity they never truly traverse the world’s vastness. All they have are truths taught by the sacred hall... Yet beneath this sacred hall lies the self—the most irrefutable fact.  
 
 I am no sage, not even close—more like a muddled person. Like that "lowbrow" music, it may never enter the sacred halls of art, but one night, it became my father’s truest solace. And that moment, more moving than truth.
+  
+evesunmaple
