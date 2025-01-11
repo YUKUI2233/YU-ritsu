@@ -3,15 +3,15 @@
 
 // Site title and description
 export const SITE_LANG = "en";
-export const SITE_TAB = "Frosti";
-export const SITE_TITLE = "Frosti 🧊";
-export const SITE_DESCRIPTION = "A blog template";
+export const SITE_TAB = "Gallery";
+export const SITE_TITLE = "GALLERY";
+export const SITE_DESCRIPTION = "A life blog ";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
-export const USER_NAME = "EveSunMaple";
+export const USER_NAME = "YU-ritsu";
 export const USER_SITE = "https://frosti.saroprock.com"; // At the same time, this is also the site retrieved by the i18n configuration.
-export const USER_AVATAR = "/profile.webp";
+export const USER_AVATAR = "/avatar1.webp";
 
 // Server and transition settings
 export const SERVER_URL = "https://demo.saroprock.com";
@@ -45,9 +45,9 @@ export const menuItems = [
         target: "_self",
       }, // All blog
       {
-        id: "tech",
-        text: "Tech blogs",
-        href: "/blog/categories/tech",
+        id: "Photography",
+        text: "Photography blogs",
+        href: "/blog/categories/Photography",
         svg: "material-symbols:deployed-code-outline",
         target: "_self",
       }, // Technology category
@@ -61,12 +61,12 @@ export const menuItems = [
     ],
   }, // Blog page with sub-items
   {
-    id: "project",
-    text: "Project",
-    href: "/project",
-    svg: "material-symbols:code-blocks-outline",
-    target: "_self",
-  }, // Projects page
+    id: "World",
+        text: "World",
+        href: "/project",
+        svg: "material-symbols:code-blocks-outline",
+        target: "_self",
+      }, // Projects page
   {
     id: "friend",
     text: "Friend",
@@ -74,39 +74,22 @@ export const menuItems = [
     svg: "material-symbols:supervisor-account-outline-rounded",
     target: "_self",
   }, // Friends page
-  {
-    id: "contact",
-    text: "Contact",
-    href: "mailto:contact.evesunmaple@outlook.com", // Contact email
-    target: "_blank", // Open in a new tab
-    svg: "material-symbols:attach-email-outline-rounded",
-  },
+  
 ];
 
 // Social media and contact icons
 export const socialIcons = [
   {
-    href: "https://afdian.net/a/saroprock",
-    ariaLabel: "Support my work",
-    title: "Support my work",
-    svg: "ri:cup-line",
-  },
-  {
-    href: "https://github.com/EveSunMaple",
+    href: "https://github.com/YUKUI2233",
     ariaLabel: "Github",
     title: "Github",
     svg: "ri:github-line",
   },
   {
-    href: "https://space.bilibili.com/438392347",
+    href: "https://space.bilibili.com/1189659928?spm_id_from=333.1007.0.0",
     ariaLabel: "BiliBili",
     title: "BiliBili",
     svg: "ri:bilibili-line",
   },
-  {
-    href: "/rss.xml",
-    ariaLabel: "RSS Feed",
-    title: "RSS Feed",
-    svg: "ri:rss-line",
-  },
+
 ];
