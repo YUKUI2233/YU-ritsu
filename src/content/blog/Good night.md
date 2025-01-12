@@ -2,7 +2,7 @@
 title: 晚安，祝好梦
 description: rest
 pubDate: 1 12 2025
-image: /image/image5.jpg
+image: https://picture.gptkong.com/20250112/092777eadbc8554cc6870308d0ce722a8c.png
 categories:
   - life
 ---
