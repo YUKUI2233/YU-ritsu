@@ -7,11 +7,11 @@ categories:
   - Photography
 ---
 
-摄影，虽然我并没有那种热爱摄影的心，而且平时旅游也不会拍很多照片。不过在VRC里，真正可以让我沉迷其中的，就是把所看之景拍下来当作回忆。它不需要昂贵的设备，不需要过多人力物力资源。只是需要你放松，感受环境的氛围
+In VRC, you can take pictures of what you see as memories. It does not require expensive equipment and does not require too much human and material resources. nJust to relax and feel the atmosphere of the environment
 
 作为一个园林美观设计专业的学生，或许这也算是偷偷内卷？（乐）
 
-在这个摄影栏目里，我将会详细介绍我所拍摄的照片；包括光影的设计 画面透视 等等。倘若你也有什么好的意见，或者批评我哪里的不对，可以底下评论留言(评论系统应该能用吧，汗)。或者可以与我加个好友，一起逛图>w<
+In this photography section, I will go into detail about the photos I have taken: Including the design of light and shadow, picture perspective,. If you have any good advice, you can send me an email (yukui9010@163.com). Or you can add a friend with me and look around the worlds together  >w<
 
 QQ 2304770675
 
