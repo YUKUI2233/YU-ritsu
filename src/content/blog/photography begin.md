@@ -4,10 +4,10 @@ description: 有谁会不喜欢美好的事物呢？
 pubDate: 2025-01-11
 image: https://picture.gptkong.com/20250111/2345f96b35829143a5bf4f41aef54f137a.png
 categories:
-  - Photography
+  - photography
 ---
 
-In VRC, you can take pictures of what you see as memories. It does not require expensive equipment and does not require too much human and material resources. nJust to relax and feel the atmosphere of the environment
+In VRC, you can take pictures of what you see as memories. It does not require expensive equipment and does not require too much human and material resources. Just to relax and feel the atmosphere of the environment
 
 作为一个园林美观设计专业的学生，或许这也算是偷偷内卷？（乐）
 

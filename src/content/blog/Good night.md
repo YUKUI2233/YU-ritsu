@@ -13,6 +13,6 @@ Friend  URL  https://vrchat.com/home/user/usr_6380149e-5acb-4d37-8436-f80d5bd583
 
 This blogs will record my daily life : VRchat, Travel....... 
 
-That's all . bye~
+That's all . Bye~
 
 Hope you have good dream tonight, my friend.

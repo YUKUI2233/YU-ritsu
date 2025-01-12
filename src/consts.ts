@@ -29,7 +29,7 @@ export const CODE_THEME = {
 // Menu items for navigation
 export const menuItems = [
   { id: "home", text: "Home", href: "/", svg: "material-symbols:home-outline-rounded", target: "_self" }, // Home page
-  { id: "about", text: "About", href: "/about", svg: "material-symbols:info-outline-rounded", target: "_self" }, // About page
+  { id: "timeline", text: "TimeLine", href: "/about", svg: "material-symbols:info-outline-rounded", target: "_self" }, // About page
   {
     id: "blog",
     text: "Blogs",
@@ -45,9 +45,9 @@ export const menuItems = [
         target: "_self",
       }, // All blog
       {
-        id: "Photography",
+        id: "photography",
         text: "Photography blogs",
-        href: "/blog/categories/Photography",
+        href: "/blog/categories/photography",
         svg: "material-symbols:deployed-code-outline",
         target: "_self",
       }, // Technology category
